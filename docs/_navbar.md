@@ -1,2 +1,2 @@
 - [Contributors](contributors.md)
-- The idea behind this project
+- [The idea behind this project](the-idea-behind-this-community-project.md)
