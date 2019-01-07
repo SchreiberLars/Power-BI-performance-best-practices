@@ -1,2 +1,3 @@
 - [The idea behind this project](The-idea-behind-this-community-project.md)
 - [Contributors](contributors.md)
+- [Whant to contribute?](Whant-to-contribute.md)
