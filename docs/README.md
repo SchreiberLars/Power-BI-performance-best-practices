@@ -1,2 +1,1 @@
-
-"Hier kommt einführende Inhalt rein"
+**Microsoft Power BI** is an ingenious tool for data analysis, both for self-service BI needs of business employees, and for enterprise BI scenarios. What has always fascinated me most about Power BI, however, is the community. So many people who willingly share and help their experiences with this product platform. **Most community members specialize in a specific area** of Power BI. The **approach of this project** is to bring experts together in one **central place** (not distributed over the various blogs, Youtube videos, etc.) **to share** their **experiences** **on** one specific topic: **Power BI performance best practices!**
