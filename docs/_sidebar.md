@@ -24,6 +24,8 @@
   - [Building Fast and Reliable Reporting with Power BI](https://www.youtube.com/watch?v=GhiJABR7XX0&feature=youtu.be)
   - [Power BI performance best practices](https://docs.microsoft.com/en-us/power-bi/power-bi-reports-performance)
 
+- [Tools to measure performance](tools-to-measure-performance.md)
+
 - Guide
 
   - [Helpers](helpers.md)
