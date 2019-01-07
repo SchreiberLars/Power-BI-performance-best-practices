@@ -12,7 +12,7 @@
   - [Bandwidth](Bandwidth.md)
   - [Latency](Latency.md)
 
-- Datacenter
+- [Datacenter](datacenter.md)
 
 - [Gateways](Gateways.md)
 
