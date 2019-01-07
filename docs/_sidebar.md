@@ -1,4 +1,4 @@
-- Data Sources
+- [Data Sources](data-sources.md)
 
 - [Power Query/ M](Power-Query_M.md)
 
