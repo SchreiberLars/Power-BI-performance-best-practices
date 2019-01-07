@@ -1,6 +1,6 @@
 # Optimize Power BI
 
-> The definitive Guide to use Microsoft Power BI efficient
+> From the community for the community: The definitive Guide to use Microsoft Power BI efficient
 
 - Blabla
 - ...
