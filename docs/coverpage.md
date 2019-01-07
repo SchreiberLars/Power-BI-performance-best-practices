@@ -6,5 +6,5 @@
 - ...
 
 [Get Started](#main)
-[GitHub](https://schreiberlars.github.io/optimize-power-bi)
+[GitHub](https://github.com/SchreiberLars/optimize-power-bi)
 
