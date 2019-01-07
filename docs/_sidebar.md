@@ -26,7 +26,6 @@
 
 - Guide
 
-  - [Deploy](deploy.md)
   - [Helpers](helpers.md)
 
 
