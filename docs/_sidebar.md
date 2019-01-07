@@ -8,7 +8,7 @@
 
 - [Power BI Visuals](power-bi-visuals.md)
 
-- Network 
+- [Network](network.md) 
   - [Bandwidth](Bandwidth.md)
   - [Latency](Latency.md)
 
