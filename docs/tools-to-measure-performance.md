@@ -1,6 +1,6 @@
 Tools to measure the performance of...
 
-DAX Queries --> [Dax-Studio](http://daxstudio.org/)
-Rendering of the web browser
-network latency
+DAX Queries --> [Dax-Studio](http://daxstudio.org/),
+Rendering of the web browser,
+network latency,
 etc....
