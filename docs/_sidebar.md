@@ -1,7 +1,5 @@
 - Data Sources
 
-  - [The idea behind this community project](The-idea-behind-this-community-project.md)
-
 - [Power Query/ M](Power-Query_M.md)
 
 - DAX/ Data Modeling
