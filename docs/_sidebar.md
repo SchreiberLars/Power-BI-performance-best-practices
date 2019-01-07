@@ -2,17 +2,21 @@
 
 - [Power Query/ M](Power-Query_M.md)
 
-- DAX/ Data Modeling
+- [DAX](DAX.md)
 
-- Power BI Visuals
+- [Data Modeling](data-modeling.md)
 
-- Network Bandwidth/ Latency
+- [Power BI Visuals](power-bi-visuals.md)
+
+- Network 
+  - [Bandwidth](Bandwidth.md)
+  - [Latency](Latency.md)
 
 - Datacenter
 
-- Gateways
+- [Gateways](Gateways.md)
 
-- Browser
+- [Browser](Browser.md)
 
 - PC Configuration
 
