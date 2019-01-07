@@ -12,7 +12,21 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      //...
+     	name       : 'Project Name',
+			repo       : 'https://github.com/jhildenbiddle/docsify-themeable',
+			coverpage  : 'coverpage.md',
+			homepage   : 'README.md',
+			// homepage   : 'https://raw.githubusercontent.com/jhildenbiddle/docsify-themeable/master/README.md',
+			loadSidebar: 'sidebar.md',
+			auto2top   : true,
+			maxLevel   : 3, 
+			subMaxLevel: 3,
+
+			// 5. docsify-themeable
+			themeable : { 
+				// readyTransition : false, 
+				// responsiveTables: false 
+			}
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
