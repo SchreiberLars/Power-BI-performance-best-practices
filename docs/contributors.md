@@ -1,1 +1,1 @@
-"Hier kommen alle Contributors rein!"
+[Lars Schreiber](https://ssbi-blog.de/lars-schreiber/)
