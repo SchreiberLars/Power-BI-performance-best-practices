@@ -30,4 +30,4 @@
 
 
 - [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+- [Changelog](change-log.md)
