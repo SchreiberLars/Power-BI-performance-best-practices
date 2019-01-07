@@ -1,6 +1,6 @@
 - Getting started
 
-  - [Quick start](quickstart.md)
+  - [The idea behind this community project](the idea behind this community project.md)
   - [Writing more pages](more-pages.md)
   - [Custom navbar](custom-navbar.md)
   - [Cover page](cover.md)
