@@ -1,12 +1,12 @@
 - About this Project
-  - [Purpose of this project](Purpose-of-this-project.md)
+  - [Purpose of this project](purpose-of-this-project.md)
   - [Contributors](contributors.md)
   
 - [Data Sources](data-sources.md)
 
-- [Power Query/ M](Power-Query_M.md)
+- [Power Query/ M](power-query_M.md)
 
-- [DAX](DAX.md)
+- [DAX](dax.md)
 
 - [Data Modeling](data-modeling.md)
 
@@ -18,9 +18,9 @@
 
 - [Datacenter](datacenter.md)
 
-- [Gateways](Gateways.md)
+- [Gateways](gateways.md)
 
-- [Browser](Browser.md)
+- [Browser](browser.md)
 
 - PC Configuration
 
