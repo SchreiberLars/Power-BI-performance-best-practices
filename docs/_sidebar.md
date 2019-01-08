@@ -36,6 +36,4 @@
 
   - [Helpers](helpers.md)
 
-
-- [Awesome docsify](awesome.md)
 - [Changelog](change-log.md)
