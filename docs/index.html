@@ -133,8 +133,8 @@ function http(res, time = 200) {
       + fakeHttp + '\n\n';
 	  
     window.$docsify = {
-                	name       : 'Power BI performance best practices',
-			            repo       : 'https://github.com/SchreiberLars/Power-BI-performance-best-practices/tree/master/docs',
+                        	name       : 'Power BI performance best practices',
+           	            repo       : 'https://github.com/SchreiberLars/Power-BI-performance-best-practices/tree/master/docs',
 			            coverpage  : 'coverpage.md',
 		            	homepage   : 'README.md',
 		            	loadSidebar: '_sidebar.md',
@@ -142,12 +142,7 @@ function http(res, time = 200) {
 		             	auto2top   : true,
 		            	maxLevel   : 3, 
 	            		subMaxLevel: 3,
-	               plugins: [
-        EditOnGithubPlugin.create(
-          'https://github.com/SchreiberLars/Power-BI-performance-best-practices/blob/master/docs/'
-        ),
-        // DocsifyCodefund.create(15)
-      ]
+	               plugins: [EditOnGithubPlugin.create('https://github.com/SchreiberLars/Power-BI-performance-best-practices/blob/master/docs/')]
     }
   </script>
 	
