@@ -23,6 +23,8 @@
 - [Browser](browser.md)
 
 - PC Configuration
+  - [Processor](processor.md)
+  - [Memory/ RAM](ram.md)
 
 - Official Microsoft Ressources
   - [Building Fast and Reliable Reporting with Power BI](https://www.youtube.com/watch?v=GhiJABR7XX0&feature=youtu.be)
