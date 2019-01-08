@@ -1,5 +1,5 @@
 - About this Project
-  - [About this project](About-this-project.md)
+  - [Purpose of this project](Purpose-of-this-project.md)
   - [Contributors](contributors.md)
   
 - [Data Sources](data-sources.md)
