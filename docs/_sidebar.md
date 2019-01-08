@@ -13,8 +13,8 @@
 - [Power BI Visuals](power-bi-visuals.md)
 
 - [Network](network.md) 
-  - [Bandwidth](Bandwidth.md)
-  - [Latency](Latency.md)
+  - [Bandwidth](andwidth.md)
+  - [Latency](latency.md)
 
 - [Datacenter](datacenter.md)
 
