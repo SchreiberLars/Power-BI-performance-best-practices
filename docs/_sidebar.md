@@ -4,7 +4,7 @@
   
 - [Data Sources](data-sources.md)
 
-- [Power Query/ M](power-query_M.md)
+- [Power Query/ M](power-query_m.md)
 
 - [DAX](dax.md)
 
