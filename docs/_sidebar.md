@@ -5,6 +5,7 @@
 - [Data Sources](data-sources.md)
 
 - [Power Query/ M](power-query_m.md)
+  - [Query Folding](query_folding.md)
 
 - [DAX](dax.md)
 
